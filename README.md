@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Leaf store](https://github.com/an-marryKyslenko/leaf-store)
 
-- 🌱 I’m currently learning **ReactJs,NodeJs,Express**
+- 🌱 I’m learning **React,Node.js/Express**
 
 - See my  [PORTFOLIO](https://portfolio-an-marrykyslenko.vercel.app/)
 
