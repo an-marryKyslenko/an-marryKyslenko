@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anna-Mariia</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+<h3 align="center">A passionate FULL STACK developer from Ukraine</h3>
 
 - 🔭 I’m currently working on [Leaf store](https://github.com/an-marryKyslenko/leaf-store)
 
