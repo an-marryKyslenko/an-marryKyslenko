@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anna-Mariia Kyslenko</h1>
 <h3 align="center">A passionate FULL STACK developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [Node chat]([https://github.com/an-marryKyslenko/node_chat](https://github.com/an-marryKyslenko/node_chat))
+- 🔭 I’m currently working on [Node chat](https://github.com/an-marryKyslenko/node_chat)
 
 - 🌱 I’m learning **React,Node.js/Express**
 
-- See my  [PORTFOLIO]([https://portfolio-an-marrykyslenko.vercel.app/](https://portfolio-anmarrykyslenkos-projects.vercel.app/))
+- See my  [PORTFOLIO](https://portfolio-an-marrykyslenko.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/an-marryKyslenko?tab=repositories](https://github.com/an-marryKyslenko?tab=repositories)
 
