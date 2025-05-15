@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anna-Mariia Kyslenko</h1>
 <h3 align="center">A passionate FULL STACK developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [Node chat]([https://github.com/an-marryKyslenko/leaf-store](https://github.com/an-marryKyslenko/node_chat))
+- 🔭 I’m currently working on [Node chat]([https://github.com/an-marryKyslenko/node_chat](https://github.com/an-marryKyslenko/node_chat))
 
 - 🌱 I’m learning **React,Node.js/Express**
 
