@@ -9,7 +9,7 @@
   
 - 👨‍💻 All of my projects are available at [https://github.com/an-marryKyslenko?tab=repositories](https://github.com/an-marryKyslenko?tab=repositories)
 
-- 📫 How to reach me **olih.a@cloud.com**
+- 📫 How to reach me **annamariiakyslenko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
